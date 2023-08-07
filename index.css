@@ -1,0 +1,401 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.topnav {
+  background-color:#da291c;
+  width: 100%;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+}
+
+.topnav,
+a {
+  text-decoration: none;
+  color: #fff;
+  padding: 14px 16px;
+  font-size: 18px;
+}
+
+.image1 {
+  height: 119px;
+  margin-top: -20px;
+  margin-left: -16%;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+.div2 {
+  background-color: #fff;
+  width: 100%;
+  height: 40rem;
+  display: flex;
+}
+
+.image2 {
+  width: 97%;
+  margin-left: 64%;
+  margin-top: 2rem;
+  border-radius: 18px;
+  max-height: 583px;
+}
+
+.header2 {
+  color: #da291c;
+  font-family: "Ubuntu", sans-serif;
+  margin-left: 65px;
+  margin-top: 10rem;
+  font-size: 54px;
+}
+
+.para1 {
+  margin-left: -469px;
+  margin-top: 19rem;
+  font-size: 18px;
+  word-spacing: 3px;
+  line-height: 28px;
+  color: #5a434c;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.btn1 {
+  color: #157bbe;
+  border: 1px solid #157bbe;
+  background-color: #fff;
+  height: 40px;
+  width: 141px;
+  margin-top: 30rem;
+  margin-left: -570px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+.btn1:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.division3{
+  background-color: #9b1d14;
+  width: 100%;
+  height: 15rem;
+  float:left;
+
+}
+.header3{
+  margin-top: 100px;
+  margin-left: 30%;
+  color: #fff;
+  font-size: 50px;
+  }
+.header4{
+  margin-top: 17px;
+  margin-left: 23%;
+  color: #fff;
+  font-size: 20px;
+}
+.division4{
+  background-color:#9b1d14;
+   width: 100%;
+  height: 22rem;
+  display: flex;
+}
+
+.division4 img{
+          width: 368px;
+    height: 390px;
+    margin-left: 76px;
+}
+
+.division5{
+  background-color:#9b1d14;
+  height: 15rem;
+  width: 100%;
+  display: flex;
+  color: #fff;
+}
+.para2{
+  margin-left:135px;
+  word-spacing: 3px;
+  line-height: 28px;
+  font-size: 17px;
+}
+
+.division6{
+  background-color: #fff;
+  width: 100%;
+  height: 40rem;
+  display: flex;
+}
+
+.header5{
+  margin-left: 9%;
+  margin-top: 187px;
+  color: #da291c;
+  font-family: Ubuntu, sans-serif;
+  font-size: 56px;
+  font-weight: 500;
+  font-weight: bold;
+}
+.para3{
+  margin-top: 329px;
+    margin-left: -22%;
+    color: #5a434c;
+    word-spacing: 7px;
+    line-height: 30px;
+    font-size: 19px;
+}
+.image3{
+  width: 524px;
+  max-height: 546px;
+  margin-top: 131px;
+  margin-left: 172px;
+}
+
+.btn2 {
+    color: #157bbe;
+    border: 1px solid #157bbe;
+    background-color: #fff;
+    height: 40px;
+    width: 141px;
+    margin-top: 35rem;
+    margin-left: -409px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.btn2:hover{
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+
+.division7{
+  background-color:#fff;
+  width: 100%;
+  height:45rem;
+  color: #fff;
+}
+.division8{
+  background-color: #0d28b2;
+  width: 76%;
+  height: 41rem;
+  margin-top: 19px;
+  margin-left: 165px;
+  border-radius: 55px;
+}
+.header6{
+  margin-left: 100px;
+  font-family: Ubuntu, sans-serif;
+  line-height: 58px;
+  margin-top: 71px;
+  float: left;
+  font-size: 46px;
+  font-weight: bold;
+
+}
+.para4{
+  margin-left: 100px;
+  font-family: Ubuntu, sans-serif;
+  line-height: 33px;
+  margin-top: 316px;
+  font-size: 20px;
+}
+
+.btn3 {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: #0d28b2;
+  height: 40px;
+  width: 141px;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-top: 3px;
+  margin-left: 99px;
+  font-size: 15px;
+}
+.btn3:hover{
+text-decoration: underline;
+cursor: pointer;
+
+}
+.header7{
+  margin-top: -31px;
+  color:#fff;
+  margin-left: 282px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.division9{
+  background-color:#fff;
+  width: 100%;
+  height: 34rem;
+}
+.division10{
+  background-color:#fff;
+  width: 51%;
+  height: 24rem;
+  margin-top: 99px;
+  margin-left: 339px;
+  border-radius: 65px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.header8{
+  font-size: 52px;
+  color: #da291c;
+  margin-top: 44px;
+  margin-left: 53px;
+  float: left;
+  font-family: Ubuntu, sans-serif;
+
+}
+.para5{
+  font-size: 19px;
+  margin-top: -24px;;
+  font-family: Ubuntu, sans-serif;
+  line-height: 33px;
+  margin-left: 44px;
+  color: #5a434c;
+  float: left;
+  word-spacing: 6px;
+}
+.btn4 {
+  color: #1879b9;
+  border: 1px solid #1879b9;
+  background-color: #fff;
+  height: 43px;
+  width: 187px;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-top: 3px;
+  margin-left: 99px;
+  font-size: 15px;
+
+}
+.btn4:hover{
+text-decoration: underline;
+color: #0d28b2;
+border-color: #0d28b2;
+cursor: pointer;
+}
+.header9{
+  margin-top: -35px;
+  margin-left: 313px;
+  color: #1879b9;
+  font-size: 17px;
+  font-family: Ubuntu, sans-serif;
+  word-spacing: 3px;
+}
+.header9:hover{
+  color:#0d28b2;
+  text-decoration: underline;
+cursor: pointer;
+}
+.division11{
+  background:linear-gradient(90.04deg, #da291c 0.03%, #9b1d14 108.06%);;
+  width: 100%;
+  height: 33rem;
+}
+.header10{
+  color: #fff;
+    margin-top: 135px;
+    margin-left: 491px;
+    float: left;
+    font-size: 53px;
+    font-family: Ubuntu, sans-serif;
+    word-spacing: 3px;
+}
+.para6{
+  color: #fff;
+  margin-top: 298px;
+  margin-left: -568px;
+  float: left;
+  font-size: 18px;
+  font-family: Ubuntu, sans-serif;
+  word-spacing: 3px;
+  line-height: 33px;
+}
+
+.btn5{
+  color: #fff;
+  border: 1px solid white;
+  background-color:#da291c;
+  height: 43px;
+  width: 187px;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-top: 441px;
+  margin-left: -564px;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.btn5:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.image4{
+  margin-top: 63px;
+  margin-left: -42%;
+  float: left;
+ 
+}
+footer{
+  background-color: #fff;
+  color: #5a434c;
+  width: 100%;
+  height: 10rem;
+}
+footer ul{
+  list-style-type: none;
+
+}
+footer ul li{
+  display: inline;
+  margin-right: 20px;
+  float: left;
+  margin-top: 52px;
+  margin-left: 1%;
+ 
+}
+
+footer a{
+color:#1f3045;
+float: left;
+
+}
+footer a:hover{
+  color: #157bbe;
+  cursor: pointer;
+ 
+}
+footer ul:last-child {
+  float: right;
+  display: flex;
+  align-items: center;
+  margin-right: 10%;
+  margin-top: -87px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
